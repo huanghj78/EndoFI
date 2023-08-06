@@ -1,0 +1,11 @@
+type: io
+args:
+client: 
+  ip: 172.17.0.4
+  port: 37416
+duration: 20000
+filter: "no"
+process_path: "/home/postgres"
+pid: 789633  
+
+

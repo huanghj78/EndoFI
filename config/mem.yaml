@@ -1,0 +1,13 @@
+type: mem
+args:
+  size: 99999999999999
+  rise_time: 10000
+client: 
+  ip: 172.17.0.4
+  port: 37416
+duration: 20000
+filter: "no"
+process_path: "/home/postgres"
+pid: 3950047
+
+

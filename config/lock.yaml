@@ -1,0 +1,11 @@
+type: lock
+args:
+  relation_id: 32821
+client: 
+  ip: 172.17.0.4
+  port: 37508 
+duration: 1
+filter: "^UPDATE"
+process_path: "/home/postgres"
+pid: 875273
+

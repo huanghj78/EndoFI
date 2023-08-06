@@ -1,0 +1,12 @@
+type: cpu
+args:
+  cpu_usage: 100
+  rise_time: 5000
+client: 
+  ip: 172.17.0.4
+  port: 51672
+duration: 10000
+filter: "no"
+process_path: "/home/postgres"
+pid: 3240087
+

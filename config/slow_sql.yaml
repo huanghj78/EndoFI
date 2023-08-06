@@ -1,0 +1,10 @@
+type: slow_sql
+args: 
+client: 
+  ip: 172.17.0.4
+  port: 37508
+duration: 100
+filter: "^INSERT"
+process_path: "/home/postgres"
+pid: 15952
+
