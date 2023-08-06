@@ -7,6 +7,7 @@ EndoFI has the following advantages:
 * EndoFI's fault injection methodology is white-box because it enables runtime fault injection at the source code level.
 
 ## Usage
+0. Add the soft link of GDB in current path
 1. Set the configuration
 2. Modify the `FILE_PATH` in `main.py`
 3. run `run.sh`
